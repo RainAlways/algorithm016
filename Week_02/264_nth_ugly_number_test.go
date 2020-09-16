@@ -6,6 +6,5 @@ import (
 )
 
 func TestNthUglyNumber(t *testing.T) {
-
-	log.Println(nthUglyNumber(10))
+	log.Println(nthUglyNumber2(10))
 }
